@@ -1,4 +1,4 @@
-#changed
+# compatibility with VI
 set nocompatible
 
 " Enable mouse support
